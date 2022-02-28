@@ -1,1 +1,2 @@
 # beetleBot
+Dsicord bot
